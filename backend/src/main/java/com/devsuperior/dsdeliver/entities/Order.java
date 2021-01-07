@@ -34,7 +34,7 @@ public class Order implements Serializable {
 	@JoinTable(name = "tb_order_product",
 		joinColumns = @JoinColumn(name = "order_id"),
 		inverseJoinColumns = @JoinColumn(name = "product_id"))
-	private Set<Product> product = new HashSet<>();
+	private Set<Product> products = new HashSet<>();
 	
 	public Order() {
 		
@@ -87,8 +87,8 @@ public class Order implements Serializable {
 	}
 
 	
-	public Set<Product> getProduct() {
-		return product;
+	public Set<Product> getProducts() {
+		return products;
 	}
 
 
