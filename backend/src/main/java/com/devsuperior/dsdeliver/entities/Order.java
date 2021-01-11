@@ -91,6 +91,14 @@ public class Order implements Serializable {
 		return products;
 	}
 
+	public Double getTotal( ) {
+		double sum = 0.0;
+		for(Product p : products) {
+			sum = sum + p.getPrice();
+		}
+		
+		return sum;
+	}
 
 	public void setMoment(Instant moment) {
 		this.moment = moment;
