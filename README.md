@@ -1,5 +1,4 @@
 <h1 align="center">DSDELIVER</h1>
-/appveyor/build/:user/:repo
 <p align="center">Projeto desenvolvido na semana DevSuperior.
 O projeto consiste em uma aplicação de registro e entrega de pedidos.</p>
 <hr/>
