@@ -11,14 +11,14 @@
   <a href="https://github.com/Lenondiedrich/dsdeliver-sds2/issues">
       <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Lenondiedrich/dsdeliver-sds2">
    </a>
-  <a href="https://github.com/Lenondiedrich/dsdeliver-sds2/LICENSE.txt">
+  <a href="./LICENSE.txt">
       <img alt="GitHub License" src="https://img.shields.io/github/license/Lenondiedrich/dsdeliver-sds2">
    </a>
 </h3>
 <h3>💻 Sobre: </h3>
 <p align="center">Projeto desenvolvido na semana DevSuperior. O projeto consiste em uma aplicação de registro e entrega de pedidos.</p>
 <hr/>
-<strong>🛠 Tecnologias utilizadas: </strong>
+<h3>🛠 Tecnologias utilizadas: </h3>
 <ul>
   <li>Java (JDK 11) </li>
   <li>Spring Framework (STS)</li>
