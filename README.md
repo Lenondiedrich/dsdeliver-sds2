@@ -2,7 +2,7 @@
 <h1 align="center">DS DELIVER</h1>
 <h3 align="center">
   <a href="https://github.com/Lenondiedrich">
-      <img alt="Made by mathrb22" src="https://img.shields.io/badge/made%20by-Lenondiedrich-blue">
+      <img alt="Made by Lenon" src="https://img.shields.io/badge/made%20by-Lenondiedrich-blue">
    </a>
   <a href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V14.md#14.15.0">
       <img alt="Nodejs Version" src="https://img.shields.io/badge/node.js-v14.15.0-informational?logo=Node.JS">
