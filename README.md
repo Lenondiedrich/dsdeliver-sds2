@@ -54,7 +54,7 @@
     $ npm install
 
     # Inicie a aplicação React
-    # npm start
+    $ npm start
 
 <p>A aplicação irá rodar no endereço `http://localhost:3000/`</p>
 
